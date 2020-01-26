@@ -15,4 +15,10 @@ If you are on Windows (gasp! :O) you will have to manually install git. There ar
 
 What's the difference between these approaches? So with **I.** you will get a means of installing Native Windows applications to your system via a package manager at the expense of having to use Powershell which is not Unix-like. With **II.** you get to install native linux applications to a Linux layer running within Windows - a little bit more awkward to work with in my experience. With **III.** you get a Windows x86 application which allows you to interface to Windows in a manner you would be used to on Linux/Unix.
 
-Step 2.
+If you are on Linux, you can install git using your distribution's package manager. In Ubuntu/Debian, this is ```sudo apt-get install git```.
+
+* Step 2.
+With your terminal, navigate to a directory of your choosing e.g. ```mkdir ~/software-engineering-projct/ && cd ~/software-engineering-project/```. Clone this repository by typing in the git command ```git clone https://github.com/avieor/Git-Demo-for-Students.git```. You should now have a local copy of this repository. You can use ```ls -al``` on *nix to view all files (including hidden directories). Alternatively, you can use tree if you have it installed to show files as a Tree ```tree -a .``` :-)
+
+* Step 3.
+Make a branch. A branch create a snapshot of the codebase and work on it independently without having to worry about other people's work conflicting with your code. The idea of a branch is to allow teams of developers to work on implementing seperate features without having to worry about the state of the code being changed. A working state of the code always available. To create branch ```git branch ```
