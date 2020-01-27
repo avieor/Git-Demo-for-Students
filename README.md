@@ -4,7 +4,7 @@ Hello Second Years. This is your homework :-)
 
 Please do the following steps:
 
-* Step 0. Create an account on Github. I strongly advise you to sign up to the [Github Student Developer Package](https://education.github.com/pack) and receive some goodies from Amazon Web Services (AWS), namecheap among others. There also exists Gitlab and Bitbucket which are nice, but the majority of your friends are likely to be using Github so you may as well be on the same platform. Once you have made your account, please send onto me your github username so I can authenticate you. You will not be able to complete Step N without doing that, but you will be able to complete steps 1 through N-1.
+* Step 0. Create an account on Github. I strongly advise you to sign up to the [Github Student Developer Package](https://education.github.com/pack) and receive some goodies from Amazon Web Services (AWS), namecheap among others. There also exists Gitlab and Bitbucket which are nice, but the majority of your friends are likely to be using Github so you may as well be on the same platform. Once you have made your account, please send onto me your github username so I can authenticate you. You will not be able to complete Step 8 without doing that, but you will be able to complete steps 1 through 7.
 
 * Step 1.
 Verify that Git is installed on your system. Git is preinstalled on Mac OSX and some [*nix](https://en.wikipedia.org/wiki/Unix-like) systems, however most Linux Distributions require you to install git manually. Open up a terminal and type ```git --version```. If all is well, you should see something similiar to the following.
