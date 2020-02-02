@@ -1,9 +1,5 @@
 # Hello Group 6 :-) 
 
-So this is an example markdown file which I created as per the steps 0-9 in README.md. I request you to do the same.
-
-In the mean time, here is an example of some of the cool things you can do in a markdown file:
-
 ### Unordered Lists
 - Item a
 - Item b
