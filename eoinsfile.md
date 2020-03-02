@@ -3,8 +3,7 @@
 ### Unordered Lists
 - Item a
 - Item b
-- Item c
-- Item d
+
 
 ### Ordered Lists
 1. Item 1
